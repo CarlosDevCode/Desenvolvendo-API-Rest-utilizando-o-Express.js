@@ -163,4 +163,4 @@ curl -X POST http://localhost:3000/alunos \
 
 ## Autor
 
-Seu nome aqui
+Eraldo Carlos
